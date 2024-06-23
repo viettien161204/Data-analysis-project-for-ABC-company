@@ -1,0 +1,201 @@
+Customer_ID,First_Name,Last_Name,Email,Phone,Country,City,Zip_Code,Gender,Age,Loyalty_Program
+1,Sophia,Gonzalez,sophia.gonzalez@email.com,555-1234,Mexico,Mexico City,06000,Female,35,True
+2,Liam,Nguyen,liam.nguyen@email.com,555-5678,Vietnam,Hanoi,100000,Male,28,True
+3,Ava,Müller,ava.muller@email.com,555-9012,Germany,Berlin,10115,Female,41,True
+4,Oliver,Rossi,oliver.rossi@email.com,555-3456,Italy,Rome,00100,Male,52,True
+5,Isabella,Takahashi,isabella.takahashi@email.com,555-7890,Japan,Tokyo,163-0001,Female,24,True
+6,Noah,Macdonald,noah.macdonald@email.com,555-2345,Canada,Toronto,M5V 2T6,Male,31,True
+7,Mia,Morales,mia.morales@email.com,555-6789,Spain,Barcelona,08001,Female,38,True
+8,William,Chen,william.chen@email.com,555-0123,China,Shanghai,200000,Male,47,True
+9,Emma,Patel,emma.patel@email.com,555-4567,India,Mumbai,400001,Female,29,True
+10,Benjamin,Andersson,benjamin.andersson@email.com,555-8901,Sweden,Stockholm,111 32,Male,26,True
+11,Olivia,Santos,olivia.santos@email.com,555-2345,Brazil,Sao Paulo,01000-000,Female,33,True
+12,Ethan,Dupont,ethan.dupont@email.com,555-6789,France,Paris,75001,Male,42,True
+13,Harper,Ikeda,harper.ikeda@email.com,555-0123,Japan,Osaka,530-0001,Female,27,True
+14,Jacob,Hernandez,jacob.hernandez@email.com,555-4567,Mexico,Guadalajara,44100,Male,39,True
+15,Abigail,Sato,abigail.sato@email.com,555-8901,Brazil,Rio de Janeiro,20000-000,Female,36,True
+16,Alexander,Dubois,alexander.dubois@email.com,555-2345,Canada,Montreal,H3B 4X8,Male,30,True
+17,Emily,Rodriguez,emily.rodriguez@email.com,555-6789,Spain,Madrid,28001,Female,43,True
+18,Lucas,Kovacs,lucas.kovacs@email.com,555-0123,Hungary,Budapest,1052,Male,25,True
+19,Avery,Nguyen,avery.nguyen@email.com,555-4567,Vietnam,Ho Chi Minh City,70000,Female,34,True
+20,Mason,Gonzalez,mason.gonzalez@email.com,555-8901,Mexico,Monterrey,64000,Male,48,True
+21,Evelyn,Tanaka,evelyn.tanaka@email.com,555-2468,Japan,Kobe,650-0011,Female,31,True
+22,Daniel,Ramos,daniel.ramos@email.com,555-7890,Brazil,Brasilia,70000-000,Male,27,True
+23,Isabella,Müller,isabella.muller@email.com,555-1357,Germany,Munich,80331,Female,38,True
+24,Alexander,Tanaka,alexander.tanaka@email.com,555-2468,Japan,Nagoya,460-0001,Male,45,True
+25,Avery,Morales,avery.morales@email.com,555-7890,Spain,Valencia,46001,Female,29,True
+26,Ethan,Fernandez,ethan.fernandez@email.com,555-1357,Argentina,Buenos Aires,C1063,Male,33,True
+27,Mia,Patel,mia.patel@email.com,555-2468,India,Delhi,110001,Female,42,True
+28,Jacob,Nguyen,jacob.nguyen@email.com,555-7890,Vietnam,Da Nang,550000,Male,36,True
+29,Harper,Rossi,harper.rossi@email.com,555-1357,Italy,Milan,20100,Female,28,True
+30,Benjamin,Duarte,benjamin.duarte@email.com,555-2468,Mexico,Tijuana,22000,Male,40,True
+31,Olivia,Andersson,olivia.andersson@email.com,555-7890,Sweden,Gothenburg,411 33,Female,35,True
+32,Noah,Dupont,noah.dupont@email.com,555-1357,France,Marseille,13000,Male,30,True
+33,Abigail,Sato,abigail.sato@email.com,555-2468,Japan,Yokohama,220-0011,Female,39,True
+34,William,Chen,william.chen@email.com,555-7890,China,Guangzhou,510000,Male,47,True
+35,Evelyn,Morales,evelyn.morales@email.com,555-1357,Spain,Seville,41001,Female,25,True
+36,Daniel,Kovacs,daniel.kovacs@email.com,555-2468,Hungary,Debrecen,4032,Male,34,True
+37,Mia,Dubois,mia.dubois@email.com,555-7890,France,Lyon,69001,Female,41,True
+38,Alexander,Hernandez,alexander.hernandez@email.com,555-1357,Mexico,Tijuana,22000,Male,32,True
+39,Isabella,Sato,isabella.sato@email.com,555-2468,Japan,Kobe,650-0011,Female,37,True
+40,Ethan,Rossi,ethan.rossi@email.com,555-7890,Italy,Turin,10100,Male,26,True
+41,Emma,Patel,emma.patel@email.com,555-1234,India,Chennai,600001,Female,33,True
+42,Lucas,Fernandez,lucas.fernandez@email.com,555-5678,Argentina,Cordoba,5000,Male,29,True
+43,Avery,Dubois,avery.dubois@email.com,555-9012,France,Toulouse,31000,Female,35,True
+44,Mason,Chen,mason.chen@email.com,555-3456,China,Shenzhen,518000,Male,41,True
+45,Emily,Macdonald,emily.macdonald@email.com,555-7890,Canada,Vancouver,V6B 5K3,Female,27,True
+46,Jacob,Morales,jacob.morales@email.com,555-2345,Spain,Malaga,29001,Male,38,True
+47,Abigail,Ikeda,abigail.ikeda@email.com,555-6789,Japan,Kobe,650-0011,Female,30,True
+48,William,Hernandez,william.hernandez@email.com,555-0123,Mexico,Guadalajara,44100,Male,44,True
+49,Evelyn,Duarte,evelyn.duarte@email.com,555-4567,Mexico,Monterrey,64000,Female,31,True
+50,Benjamin,Kovacs,benjamin.kovacs@email.com,555-8901,Hungary,Szeged,6720,Male,28,True
+51,Olivia,Sato,olivia.sato@email.com,555-2345,Japan,Osaka,530-0001,Female,36,True
+52,Noah,Rossi,noah.rossi@email.com,555-6789,Italy,Florence,50100,Male,40,True
+53,Harper,Patel,harper.patel@email.com,555-0123,India,Mumbai,400001,Female,34,True
+54,Alexander,Andersson,alexander.andersson@email.com,555-4567,Sweden,Malmö,211 18,Male,32,True
+55,Isabella,Dubois,isabella.dubois@email.com,555-8901,France,Bordeaux,33000,Female,39,True
+56,Ethan,Macdonald,ethan.macdonald@email.com,555-2345,Canada,Calgary,T2P 2M5,Male,26,True
+57,Mia,Takahashi,mia.takahashi@email.com,555-6789,Japan,Nagoya,460-0001,Female,35,True
+58,Daniel,Ramos,daniel.ramos@email.com,555-0123,Brazil,Recife,50000-000,Male,30,True
+59,Avery,Patel,avery.patel@email.com,555-4567,India,Kolkata,700001,Female,42,True
+60,Mason,Gonzalez,mason.gonzalez@email.com,555-8901,Mexico,Tijuana,22000,Male,37,True
+61,Emma,Tanaka,emma.tanaka@email.com,555-2468,Japan,Osaka,530-0001,Female,29,True
+62,Lucas,Fernandez,lucas.fernandez@email.com,555-7890,Argentina,Mendoza,5500,Male,33,True
+63,Avery,Morales,avery.morales@email.com,555-1357,Spain,Bilbao,48001,Female,27,True
+64,Mason,Chen,mason.chen@email.com,555-2468,China,Tianjin,300000,Male,38,True
+65,Emily,Dupont,emily.dupont@email.com,555-7890,France,Strasbourg,67000,Female,35,True
+66,Jacob,Nguyen,jacob.nguyen@email.com,555-1357,Vietnam,Hanoi,100000,Male,41,True
+67,Abigail,Rossi,abigail.rossi@email.com,555-2468,Italy,Naples,80100,Female,30,True
+68,William,Duarte,william.duarte@email.com,555-7890,Mexico,Tijuana,22000,Male,44,True
+69,Evelyn,Sato,evelyn.sato@email.com,555-1357,Japan,Kobe,650-0011,Female,31,True
+70,Benjamin,Kovacs,benjamin.kovacs@email.com,555-2468,Hungary,Miskolc,3525,Male,28,True
+71,Olivia,Andersson,olivia.andersson@email.com,555-7890,Sweden,Stockholm,111 21,Female,36,True
+72,Noah,Dubois,noah.dubois@email.com,555-1357,France,Lille,59000,Male,40,True
+73,Harper,Morales,harper.morales@email.com,555-2468,Spain,Granada,18001,Female,34,True
+74,Alexander,Hernandez,alexander.hernandez@email.com,555-7890,Mexico,Mexico City,06000,Male,32,True
+75,Isabella,Patel,isabella.patel@email.com,555-1357,India,Bangalore,560001,Female,39,True
+76,Ethan,Macdonald,ethan.macdonald@email.com,555-2468,Canada,Toronto,M5H 2N2,Male,26,True
+77,Mia,Takahashi,mia.takahashi@email.com,555-7890,Japan,Sapporo,060-0000,Female,35,True
+78,Daniel,Ramos,daniel.ramos@email.com,555-1357,Brazil,Curitiba,80000-000,Male,30,True
+79,Avery,Fernandez,avery.fernandez@email.com,555-2468,Argentina,Buenos Aires,C1063,Female,42,True
+80,Mason,Gonzalez,mason.gonzalez@email.com,555-7890,Mexico,Monterrey,64000,Male,37,True
+81,Emma,Ikeda,emma.ikeda@email.com,555-2468,Japan,Tokyo,100-0001,Female,29,True
+82,Lucas,Perez,lucas.perez@email.com,555-7890,Spain,Valencia,46001,Male,33,True
+83,Avery,Lam,avery.lam@email.com,555-1357,Hong Kong,Kowloon,999077,Female,27,True
+84,Mason,Zhang,mason.zhang@email.com,555-2468,China,Guangzhou,510000,Male,38,True
+85,Emily,Sanchez,emily.sanchez@email.com,555-7890,Mexico,Guadalajara,44100,Female,35,True
+86,Jacob,Diaz,jacob.diaz@email.com,555-1357,Chile,Santiago,8320000,Male,41,True
+87,Abigail,Muller,abigail.muller@email.com,555-2468,Germany,Berlin,10115,Female,30,True
+88,William,Pires,william.pires@email.com,555-7890,Brazil,Sao Paulo,01000-000,Male,44,True
+89,Evelyn,Nakamura,evelyn.nakamura@email.com,555-1357,Japan,Kyoto,600-8001,Female,31,True
+90,Benjamin,Suarez,benjamin.suarez@email.com,555-2468,Argentina,Cordoba,5000,Male,28,True
+91,Olivia,Jorgensen,olivia.jorgensen@email.com,555-7890,Norway,Oslo,0109,Female,36,True
+92,Noah,Deschamps,noah.deschamps@email.com,555-1357,France,Marseille,13000,Male,40,True
+93,Harper,Lee,harper.lee@email.com,555-2468,South Korea,Seoul,06236,Female,34,True
+94,Alexander,Cardoso,alexander.cardoso@email.com,555-7890,Brazil,Rio de Janeiro,20000-000,Male,32,True
+95,Isabella,Yamamoto,isabella.yamamoto@email.com,555-1357,Japan,Yokohama,220-0001,Female,39,True
+96,Ethan,Mercier,ethan.mercier@email.com,555-2468,Canada,Montreal,H3B 4G7,Male,26,True
+97,Mia,Zheng,mia.zheng@email.com,555-7890,China,Shanghai,200000,Female,35,True
+98,Daniel,Alves,daniel.alves@email.com,555-1357,Brazil,Brasilia,70000-000,Male,30,True
+99,Avery,Gomez,avery.gomez@email.com,555-2468,Mexico,Tijuana,22000,Female,42,True
+100,Mason,Ito,mason.ito@email.com,555-7890,Japan,Kobe,650-0011,Male,37,True
+101,Emma,Gutierrez,emma.gutierrez@email.com,555-2468,Spain,Madrid,28001,Female,29,True
+102,Lucas,Vazquez,lucas.vazquez@email.com,555-7890,Spain,Barcelona,08001,Male,33,True
+103,Avery,Kim,avery.kim@email.com,555-1357,South Korea,Busan,48000,Female,27,True
+104,Mason,Ahmed,mason.ahmed@email.com,555-2468,Egypt,Cairo,11511,Male,38,True
+105,Emily,Almeida,emily.almeida@email.com,555-7890,Brazil,Belo Horizonte,30000-000,Female,35,True
+106,Jacob,Aoki,jacob.aoki@email.com,555-1357,Japan,Osaka,530-0001,Male,41,True
+107,Abigail,Flores,abigail.flores@email.com,555-2468,Mexico,Puebla,72000,Female,30,True
+108,William,Moreira,william.moreira@email.com,555-7890,Brazil,Salvador,40000-000,Male,44,True
+109,Evelyn,Shimizu,evelyn.shimizu@email.com,555-1357,Japan,Hiroshima,730-0811,Female,31,True
+110,Benjamin,Ramos,benjamin.ramos@email.com,555-2468,Brazil,Curitiba,80000-000,Male,28,True
+111,Olivia,Castillo,olivia.castillo@email.com,555-7890,Mexico,Monterrey,64000,Female,36,True
+112,Noah,Lefevre,noah.lefevre@email.com,555-1357,France,Toulouse,31000,Male,40,True
+113,Harper,Choi,harper.choi@email.com,555-2468,South Korea,Incheon,22100,Female,34,True
+114,Alexander,Malik,alexander.malik@email.com,555-7890,Pakistan,Karachi,75600,Male,32,True
+115,Isabella,Khan,isabella.khan@email.com,555-1357,Pakistan,Lahore,54000,Female,39,True
+116,Ethan,Araujo,ethan.araujo@email.com,555-2468,Brazil,Porto Alegre,90000-000,Male,26,True
+117,Mia,Tanaka,mia.tanaka@email.com,555-7890,Japan,Nagoya,460-0001,Female,35,True
+118,Daniel,Ferreira,daniel.ferreira@email.com,555-1357,Brazil,Recife,50000-000,Male,30,True
+119,Avery,Navarro,avery.navarro@email.com,555-2468,Mexico,Tijuana,22000,Female,42,True
+120,Mason,Kaur,mason.kaur@email.com,555-7890,India,Delhi,110001,Male,37,True
+121,Emma,Patel,emma.patel@email.com,555-2468,India,Mumbai,400001,Female,29,True
+122,Lucas,Singh,lucas.singh@email.com,555-7890,India,Bangalore,560001,Male,33,True
+123,Avery,Tandon,avery.tandon@email.com,555-1357,India,Kolkata,700001,Female,27,True
+124,Mason,Kapoor,mason.kapoor@email.com,555-2468,India,Chennai,600001,Male,38,True
+125,Emily,Gupta,emily.gupta@email.com,555-7890,India,Hyderabad,500001,Female,35,True
+126,Jacob,Sharma,jacob.sharma@email.com,555-1357,India,Ahmedabad,380001,Male,41,True
+127,Abigail,Chopra,abigail.chopra@email.com,555-2468,India,Surat,395001,Female,30,True
+128,William,Agarwal,william.agarwal@email.com,555-7890,India,Pune,411001,Male,44,True
+129,Evelyn,Malhotra,evelyn.malhotra@email.com,555-1357,India,Jaipur,302001,Female,31,True
+130,Benjamin,Mehta,benjamin.mehta@email.com,555-2468,India,Lucknow,226001,Male,28,True
+131,Olivia,Arora,olivia.arora@email.com,555-7890,India,Kanpur,208001,Female,36,True
+132,Noah,Verma,noah.verma@email.com,555-1357,India,Nagpur,440001,Male,40,True
+133,Harper,Bhatia,harper.bhatia@email.com,555-2468,India,Thane,400601,Female,34,True
+134,Alexander,Mahajan,alexander.mahajan@email.com,555-7890,India,Bhopal,462001,Male,32,True
+135,Isabella,Choudhary,isabella.choudhary@email.com,555-1357,India,Visakhapatnam,530001,Female,39,True
+136,Ethan,Dutta,ethan.dutta@email.com,555-2468,India,Indore,452001,Male,26,True
+137,Mia,Chatterjee,mia.chatterjee@email.com,555-7890,India,Patna,800001,Female,35,True
+138,Daniel,Bajaj,daniel.bajaj@email.com,555-1357,India,Ludhiana,141001,Male,30,True
+139,Avery,Kapil,avery.kapil@email.com,555-2468,India,Nashik,422101,Female,42,True
+140,Mason,Chandra,mason.chandra@email.com,555-7890,India,Varanasi,221001,Male,37,True
+141,Emma,Bhatt,emma.bhatt@email.com,555-2468,India,Srinagar,190001,Female,29,True
+142,Lucas,Yadav,lucas.yadav@email.com,555-7890,India,Rajkot,360001,Male,33,True
+143,Avery,Mathur,avery.mathur@email.com,555-1357,India,Dhanbad,826001,Female,27,True
+144,Mason,Desai,mason.desai@email.com,555-2468,India,Amritsar,143001,Male,38,True
+145,Emily,Chaudhary,emily.chaudhary@email.com,555-7890,India,Navi Mumbai,400701,Female,35,True
+146,Jacob,Agarwal,jacob.agarwal@email.com,555-1357,India,Aurangabad,431001,Male,41,True
+147,Abigail,Tripathi,abigail.tripathi@email.com,555-2468,India,Ranchi,834001,Female,30,True
+148,William,Varma,william.varma@email.com,555-7890,India,Allahabad,211001,Male,44,True
+149,Evelyn,Joshi,evelyn.joshi@email.com,555-1357,India,Gwalior,474001,Female,31,True
+150,Benjamin,Patel,benjamin.patel@email.com,555-2468,India,Jabalpur,482001,Male,28,True
+151,Olivia,Mehra,olivia.mehra@email.com,555-7890,India,Vijayawada,520001,Female,36,True
+152,Noah,Agarwal,noah.agarwal@email.com,555-1357,India,Jodhpur,342001,Male,40,True
+153,Harper,Gupta,harper.gupta@email.com,555-2468,India,Raipur,492001,Female,34,True
+154,Alexander,Sharma,alexander.sharma@email.com,555-7890,India,Kochi,682001,Male,32,True
+155,Isabella,Malhotra,isabella.malhotra@email.com,555-1357,India,Hubli-Dharwad,580020,Female,39,True
+156,Ethan,Chopra,ethan.chopra@email.com,555-2468,India,Moradabad,244001,Male,26,True
+157,Mia,Arora,mia.arora@email.com,555-7890,India,Mysore,570001,Female,35,True
+158,Daniel,Kapoor,daniel.kapoor@email.com,555-1357,India,Vadodara,390001,Male,30,True
+159,Avery,Verma,avery.verma@email.com,555-2468,India,Tiruchirappalli,620001,Female,42,True
+160,Mason,Basu,mason.basu@email.com,555-7890,India,Agra,282001,Male,37,True
+161,Emma,Deshmukh,emma.deshmukh@email.com,555-2468,India,Madurai,625001,Female,29,True
+162,Lucas,Deshpande,lucas.deshpande@email.com,555-7890,India,Nashik,422101,Male,33,True
+163,Avery,Kulkarni,avery.kulkarni@email.com,555-1357,India,Howrah,711101,Female,27,True
+164,Mason,Waghmare,mason.waghmare@email.com,555-2468,India,Vasai-Virar,401305,Male,38,True
+165,Emily,Jadhav,emily.jadhav@email.com,555-7890,India,Varanasi,221001,Female,35,True
+166,Jacob,Patil,jacob.patil@email.com,555-1357,India,Surat,395001,Male,41,True
+167,Abigail,Pawar,abigail.pawar@email.com,555-2468,India,Meerut,250001,Female,30,True
+168,William,Kadam,william.kadam@email.com,555-7890,India,Faridabad,121001,Male,44,True
+169,Evelyn,Salunkhe,evelyn.salunkhe@email.com,555-1357,India,Ghaziabad,201001,Female,31,True
+170,Benjamin,Deshpande,benjamin.deshpande@email.com,555-2468,India,Kalyan-Dombivali,421301,Male,28,True
+171,Olivia,Bhosale,olivia.bhosale@email.com,555-7890,India,Thiruvananthapuram,695001,Female,36,True
+172,Noah,Gaikwad,noah.gaikwad@email.com,555-1357,India,Bhubaneswar,751001,Male,40,True
+173,Harper,Deshpande,harper.deshpande@email.com,555-2468,India,Solapur,413001,Female,34,True
+174,Alexander,Patil,alexander.patil@email.com,555-7890,India,Rajkot,360001,Male,32,True
+175,Isabella,Pawar,isabella.pawar@email.com,555-1357,India,Gwalior,474001,Female,39,True
+176,Ethan,Parekh,ethan.parekh@email.com,555-2468,India,Raipur,492001,Male,26,True
+177,Mia,Mehta,mia.mehta@email.com,555-7890,India,Kolhapur,416001,Female,35,True
+178,Daniel,Acharya,daniel.acharya@email.com,555-1357,India,Bareilly,243001,Male,30,True
+179,Avery,Rane,avery.rane@email.com,555-2468,India,Shimla,171001,Female,42,True
+180,Mason,Chavan,mason.chavan@email.com,555-7890,India,Aligarh,202001,Male,37,True
+181,Emma,Patel,emma.patel@email.com,555-2468,India,Nellore,524001,Female,29,True
+182,Lucas,Shah,lucas.shah@email.com,555-7890,India,Aurangabad,431001,Male,33,True
+183,Avery,Mehta,avery.mehta@email.com,555-1357,India,Tiruppur,641604,Female,27,True
+184,Mason,Desai,mason.desai@email.com,555-2468,India,Saharanpur,247001,Male,38,True
+185,Emily,Patel,emily.patel@email.com,555-7890,India,Guntur,522001,Female,35,True
+186,Jacob,Iyer,jacob.iyer@email.com,555-1357,India,Jamshedpur,831001,Male,41,True
+187,Abigail,Nair,abigail.nair@email.com,555-2468,India,Warangal,506001,Female,30,True
+188,William,Menon,william.menon@email.com,555-7890,India,Kochi,682001,Male,44,True
+189,Evelyn,Pillai,evelyn.pillai@email.com,555-1357,India,Ghaziabad,201001,Female,31,True
+190,Benjamin,Kurup,benjamin.kurup@email.com,555-2468,India,Durgapur,713201,Male,28,True
+191,Olivia,Menon,olivia.menon@email.com,555-7890,India,Amritsar,143001,Female,36,True
+192,Noah,Joseph,noah.joseph@email.com,555-1357,India,Bhopal,462001,Male,40,True
+193,Harper,Anthony,harper.anthony@email.com,555-2468,India,Cuttack,753001,Female,34,True
+194,Alexander,Thomas,alexander.thomas@email.com,555-7890,India,Visakhapatnam,530001,Male,32,True
+195,Isabella,Sebastian,isabella.sebastian@email.com,555-1357,India,Nashik,422101,Female,39,True
+196,Ethan,George,ethan.george@email.com,555-2468,India,Vadodara,390001,Male,26,True
+197,Mia,Mathew,mia.mathew@email.com,555-7890,India,Ranchi,834001,Female,35,True
+198,Daniel,Varghese,daniel.varghese@email.com,555-1357,India,Dhanbad,826001,Male,30,True
+199,Avery,Jacob,avery.jacob@email.com,555-2468,India,Allahabad,211001,Female,42,True
+200,Mason,Jose,mason.jose@email.com,555-7890,India,Jabalpur,482001,Male,37,True
